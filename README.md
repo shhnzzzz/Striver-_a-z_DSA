@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=shnzzzz)](https://git.io/streak-stats)
+
 # 🚀 Striver A2Z DSA Journey
 
 Welcome to my Data Structures and Algorithms repository! 👋
